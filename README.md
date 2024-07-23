@@ -4,8 +4,8 @@ I'm a passionate MERN stack developer with a strong foundation in building dynam
 <h2>About me</h2>
 - 🔭 I’m a aspiring MERN stack developer<br>
 - 🌱 Completed MERN stack development course at Naresh IT, Hyderabad.<br>
-- 👯 I have strong foundation in builiding dynamic and responsive web applications using  HTML, CSS, JavaScript, Bootstrap, jQuery, React, Nodejs, Expressjs, MongoDB. <br>
-- 📫 How to reach me: gundetigayathri0502@gmail.com
+- 👯 I can responsible for builiding dynamic and responsive web applications using HTML, CSS, JavaScript, Bootstrap, jQuery, React, Nodejs, Expressjs, MongoDB. <br>
+- 📫 Email: gundetigayathri0502@gmail.com
 <h2>Skills</h2>
   <ol type="a" >
   <li>
@@ -35,6 +35,7 @@ I'm a passionate MERN stack developer with a strong foundation in building dynam
 </ol>
 <h2>Social Profile</h2>
 <a href="https://www.linkedin.com/in/gayathri-gundeti-9010b3224?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwFgCus9uTv%2BTFwH4t4zkEw%3D%3D">LinkedIn
+
 
 
   
