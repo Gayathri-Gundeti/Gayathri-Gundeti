@@ -33,8 +33,9 @@ I'm a passionate MERN stack developer with a strong foundation in building dynam
     </ul>
     </li>
 </ol>
-<h2>Contact</h2>
+<h2>Social Profile</h2>
 <a href="https://www.linkedin.com/in/gayathri-gundeti-9010b3224?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwFgCus9uTv%2BTFwH4t4zkEw%3D%3D">LinkedIn
+
 
   
 
