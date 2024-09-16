@@ -38,7 +38,8 @@ I'm a passionate MERN stack developer with a strong foundation in building dynam
 
 <h2>Projects</h2>
 <h3>Netflix Clone</h3>
-<p>Developed a streaming platform simulation using React and the TMDB API.<a href="https://gayathri-gundeti-df0a77.netlify.app/">webURL</a</p>
+<p>Developed a streaming platform simulation using React and the TMDB API. Username=John, Password=john_123
+  <a href="https://gayathri-gundeti-df0a77.netlify.app/">webURL</a</p>
 <h3>Recipe Guide</h3>
 <p>Built a full-stack recipe application with user authentication and recipe management.
 
